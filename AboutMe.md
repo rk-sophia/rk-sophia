@@ -6,8 +6,3 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I took a technical course while I was in high school.
   It wasn't the course I would choose voluntarily, but I learned to enjoy the technology area and realized how the world is full of opportunities.
-
-<!---
-rk-sophia/rk-sophia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
